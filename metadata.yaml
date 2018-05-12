@@ -1,0 +1,45 @@
+_repo: The-Christmas-Fairy-and-Other-Stories_28306
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28306-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Winter, John Strange
+    aliases:
+    - Stannard, Henrietta Eliza Vaughan Palmer
+    - Whyte, Violet
+    - Winter, J. S. (John Strange)
+    birthdate: 1856
+    deathdate: 1911
+    gutenberg_agent_id: '6135'
+    url: http://www.gutenberg.org/2009/agents/6135
+    wikipedia: http://en.wikipedia.org/wiki/John_Strange_Winter
+  - agent_name: Crompton, Frances E.
+    gutenberg_agent_id: '33254'
+    url: http://www.gutenberg.org/2009/agents/33254
+  - agent_name: Molesworth, Mrs.
+    aliases:
+    - Mrs. (Mary Louisa) Molesworth
+    - Molesworth, Mary Louisa Stewart
+    birthdate: 1839
+    deathdate: 1921
+    gutenberg_agent_id: '2147'
+    url: http://www.gutenberg.org/2009/agents/2147
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Louisa_Molesworth
+description: ''
+gutenberg_issued: '2009-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28306'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+tableOfContents: A Christmas fairy, by J. S. Winter [pseud.] -- Not quite true, by
+  M. L. S. Molesworth -- In the chimney corner, by F. E. Crompton.
+title: The Christmas Fairy, and Other Stories
+url: http://www.gutenberg.org/ebooks/28306
